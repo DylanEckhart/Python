@@ -1,7 +1,3 @@
-# Python Object Oriented Programming by Joe Marini course example
-# Checking class types and instances
-
-
 class Book:
     def __init__(self, title):
         self.title = title
