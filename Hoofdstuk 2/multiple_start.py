@@ -1,7 +1,3 @@
-# Python Object Oriented Programming by Joe Marini course example
-# Understanding multiple inheritance
-
-
 class A:
     def __init__(self):
         super().__init__()
