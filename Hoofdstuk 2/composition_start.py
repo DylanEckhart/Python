@@ -1,7 +1,3 @@
-# Python Object Oriented Programming by Joe Marini course example
-# Using composition to build complex objects
-
-
 class Book:
     def __init__(self, title, price, author=None):
         self.title = title
