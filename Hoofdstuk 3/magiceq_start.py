@@ -21,7 +21,6 @@ class Book:
 
         return self.price >= value.price
 
-
     # TODO: the __lt__ establishes < relationship with another obj
     def __lt__(self, value):
         if not isinstance(value, Book):
